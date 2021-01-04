@@ -3,16 +3,13 @@
 
 ### App Description
 Flashcard app for question and answer
-
-### App Walk-though
-<img src="flashcardlab1.## Flashcard APP
 ## Lab 1
 
 ### App Description
 Flashcard app for question and answer
 
 ### App Walk-though
-<img src="flashcardlab1.gif" width=200><br>
+<img src="flashcardlab1.gif" width=200>flashcardlab1.gif<br>
 
 ## Required
 - [X] Create New Project in Android Studio
