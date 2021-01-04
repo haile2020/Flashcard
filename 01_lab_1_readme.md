@@ -5,7 +5,7 @@
 Flashcard app for question and answer
 
 ### App Walk-though
-<img src="flashcardlab1.gif" width=200><br>
+<img src="flashcardlab1.gif" width=200>lashcardlab1<br>
 
 ## Required
 - [X] Create New Project in Android Studio
