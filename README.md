@@ -7,6 +7,7 @@ Flashcard app for question and answer
 
 ### App Walk-though
 <img src="flashcardlab1.gif" width=200><br>
+### App Walk-though full
 <img src="flashcardlab1full.gif" width=200><br>
 
 
