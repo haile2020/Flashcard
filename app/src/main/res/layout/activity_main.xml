@@ -84,14 +84,29 @@
         android:src="@drawable/ic_iconmonstr_eye_off_thin"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
+        android:layout_marginBottom="10dp"
         />
-<!--    <ImageView-->
-<!--        android:id="@+id/eye_on"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:src="@drawable/ic_iconmonstr_eye_thin"-->
-<!--        android:layout_alignParentBottom="true"-->
-<!--        android:layout_centerInParent="true"-->
-<!--        />-->
+<ImageButton
+    android:id="@+id/add_btn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_iconmonstr_plus_4"
+    android:layout_alignRight="@id/eye_off"
+    android:layout_alignBottom="@id/eye_off"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="10dp"
+
+    />
+
+<ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_iconmonstr_edit_11"
+    android:layout_alignLeft="@id/eye_off"
+    android:layout_alignBottom="@id/eye_off"
+   android:id="@+id/edit_icon"
+    android:layout_marginLeft="10dp"
+    android:layout_marginBottom="10dp"
+    />
 
 </RelativeLayout>
