@@ -9,7 +9,7 @@ Question and Answer flashcard app
 
 ### App Walk-though
 
-<img src="flashcardlab3.gif" width=200><br>
+<img src="" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
