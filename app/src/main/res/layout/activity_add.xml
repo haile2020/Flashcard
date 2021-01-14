@@ -26,26 +26,26 @@
         android:layout_marginBottom="20dp"
         android:padding="10dp"
         />
-<!--    <EditText-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="40dp"-->
-<!--        android:id="@+id/answer_field2"-->
-<!--        android:inputType="textImeMultiLine"-->
-<!--        android:hint="Enter wrong Answer here.."-->
-<!--        android:layout_marginTop="150dp"-->
-<!--        android:layout_marginBottom="40dp"-->
-<!--        android:padding="10dp"-->
-<!--        />-->
-<!--    <EditText-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="40dp"-->
-<!--        android:id="@+id/answer_field3"-->
-<!--        android:inputType="textImeMultiLine"-->
-<!--        android:hint="Enter another wrong Answer here.."-->
-<!--        android:layout_marginTop="200dp"-->
-<!--        android:layout_marginBottom="20dp"-->
-<!--        android:padding="10dp"-->
-<!--        />-->
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/answer_field2"
+        android:inputType="textImeMultiLine"
+        android:hint="Enter wrong Answer here.."
+        android:layout_marginTop="150dp"
+        android:layout_marginBottom="40dp"
+        android:padding="10dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/answer_field3"
+        android:inputType="textImeMultiLine"
+        android:hint="Enter another wrong Answer here.."
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="20dp"
+        android:padding="10dp"
+        />
 
 
     <ImageButton

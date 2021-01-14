@@ -33,9 +33,9 @@ public class AddActivity extends AppCompatActivity {
 ); // puts one string into the Intent, with the key as 'string1'
                 data.putExtra("string2", ((EditText) findViewById(R.id.answer_field)).getText().toString()
 ); // puts another string into the Intent, with the key as 'string2
-//                data.putExtra("string3", ((EditText) findViewById(R.id.answer_field2)).getText().toString()
-//                );
-//                data.putExtra("string4", ((EditText) findViewById(R.id.answer_field3)).getText().toString());
+                data.putExtra("string3", ((EditText) findViewById(R.id.answer_field2)).getText().toString()
+                );
+                data.putExtra("string4", ((EditText) findViewById(R.id.answer_field3)).getText().toString());
 
                         setResult(RESULT_OK, data); // set result code and bundle data for response
                 finish(); // closes this activity and pass data to the original activity that launched this activity
